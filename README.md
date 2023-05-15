@@ -11,3 +11,5 @@
 > made changes fot the git pull/fetch demo
 
 >> made changes AGAIN fot the git pull/fetch demo
+
+> changes in the branch-to-remove
